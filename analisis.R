@@ -3,3 +3,8 @@
 ventas <- c(100, 120, 95, 130, 110)
 media_ventas <- mean(ventas)
 media_ventas
+
+
+hist(ventas, main = "Histograma de ventas", col = "skyblue")
+
+
