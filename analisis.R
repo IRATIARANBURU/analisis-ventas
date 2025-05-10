@@ -8,3 +8,4 @@ media_ventas
 hist(ventas, main = "Histograma de ventas", col = "skyblue")
 
 
+max(ventas)
